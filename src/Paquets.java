@@ -7,6 +7,7 @@ public class Paquets {
         if (forme == 1) {
             for (int i = 1; i < 14; i++) {
              coeurs[i] = "Valet";
+             coeurs[i] = "AS";
             }
         }
     }
